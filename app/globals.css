@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Only keeping Tailwind for utility classes that might be needed alongside MUI */
+
